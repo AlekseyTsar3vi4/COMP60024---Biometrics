@@ -14,6 +14,7 @@ This repository provides a unified notebook to evaluate three biometric systems 
 
 ## 📁 Project Structure
 
+```bash
 biometric-evaluation-suite/
 ├── biometric_evaluation_notebook.ipynb       # 📘 Main practical notebook (Colab-ready)
 ├── models/                                   # 🧠 Pretrained Models
