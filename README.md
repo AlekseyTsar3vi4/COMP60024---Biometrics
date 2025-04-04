@@ -1,6 +1,6 @@
 # 🔐 Biometric Evaluation Suite
 
-This repository provides a unified notebook to evaluate three biometric systems—**Face**, **Fingerprint**, and **Voice**—based on industry-standard metrics such as **FMR**, **FNMR**, **EER**, **ATV**, **FTER**, and **ATSR**.
+This repository provides a unified notebook to evaluate three biometric systems - **Face**, **Fingerprint**, and **Voice** -based on industry-standard metrics such as **FMR**, **FNMR**, **EER**, **ATV**, **FTER**, and **ATSR**.
 
 > 📘 Built by Alexei Gaicovschi; Pratik Gami and Ade Adeyemi using PyTorch, OpenCV, Librosa, and scikit-learn. All metrics were derived from experiments and visualised in Google Colab using real biometric datasets.
 
