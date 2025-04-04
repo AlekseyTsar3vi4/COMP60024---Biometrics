@@ -86,9 +86,9 @@ Once downloaded, place the files in your mounted `/content/drive/MyDrive/OS&BIOM
 
 | Adversarial Types Tested |
 |--------------------------|
-| Face: FGSM, Morphing, Brightness, Occlusion, Flip, Rotation |
-| Fingerprint: Morph, Blur, Rotate, Low-res |
-| Voice: Pitch shift, Speed change, Noise addition, Reverse |
+| **Face:** FGSM, Morphing, Brightness, Occlusion, Flip, Rotation |
+| **Fingerprint:** Morph, Blur, Rotate, Low-res |
+| **Voice:** Pitch shift, Speed change, Noise addition, Reverse |
 
 📸 See attack samples within the Colab notebook.
 
@@ -98,11 +98,12 @@ Once downloaded, place the files in your mounted `/content/drive/MyDrive/OS&BIOM
 
 For academic collaboration or project reuse, please contact:
 
-**Alexei Gaicovschi - g028335l@student.staffs.ac.uk**; **Pratik Gami**; **Ade Adeyemi**
+**Alexei Gaicovschi - g028335l@student.staffs.ac.uk** 
+**Pratik Gami - g013176l@student.staffs.ac.uk**; 
+**Ade Adeyemi - a016719l@student.staffs.ac.uk**
 
 ---
 
 ## 📎 License
 
 This project is for educational purposes only. All external datasets must be used under their respective licenses. No biometric data used here is linked to real identities.
-
