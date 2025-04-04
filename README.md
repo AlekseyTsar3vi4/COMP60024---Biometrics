@@ -25,8 +25,8 @@ biometric-evaluation-suite/
 └── data/                                     # 📂 Datasets
     ├── Finger samples/                       # Fingerprint images (.tif)
     ├── lfw-deepfunneled/                     # Face dataset (LFW + match CSVs)
-    └── cv-corpus-19.0-delta-2024-09-13-en/   # Voice dataset (Common Voice v19 EN)```
-
+    └── cv-corpus-19.0-delta-2024-09-13-en/   # Voice dataset (Common Voice v19 EN)
+```
 
 ## 🧠 Supported Biometric Modalities
 
