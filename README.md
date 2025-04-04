@@ -89,18 +89,7 @@ Once downloaded, place the files in your mounted `/content/drive/MyDrive/OS&BIOM
 | Fingerprint: Morph, Blur, Rotate, Low-res |
 | Voice: Pitch shift, Speed change, Noise addition, Reverse |
 
-📸 See attack samples in the `assets/` folder or within the Colab notebook.
-
----
-
-## 📁 Project Directory (Google Drive Structure)
-
-| Path | Description |
-|------|-------------|
-| `OS&BIOMETRICS/content/Finger samples/` | Fingerprint dataset |
-| `OS&BIOMETRICS/content/lfw-deepfunneled/` | Face dataset |
-| `OS&BIOMETRICS/content/cv-corpus-19.0/` | Voice samples (Common Voice) |
-| `OS&BIOMETRICS/models/` | Trained model checkpoints |
+📸 See attack samples within the Colab notebook.
 
 ---
 
